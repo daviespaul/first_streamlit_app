@@ -65,3 +65,4 @@ streamlit.write ('Thanks for adding ', add_my_fruit)
 # this will not work correctly yet
 my_cur.execute("insert into FRUIT_LOAD_LIST values ('from streamlit')")
 
+
